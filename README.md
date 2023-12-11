@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @nalinijoshi
 - 👀 I’m interested in mathematics.
-- 🌱 I’m currently learning algebraic geometry.
-- 💞️ I’m looking to collaborate on difference equations.
 - 📫 How to reach me Nalini.Joshi@sydney.edu.au
 
 <!---
